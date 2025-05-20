@@ -1,10 +1,4 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Hotel.DAL.Abstract
+﻿namespace Hotel.DAL.Abstract
 {
     public interface IGenericDAL<T> where T : class
     {

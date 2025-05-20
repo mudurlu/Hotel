@@ -7,7 +7,7 @@ using Hotel.EntityLayer.Concrete;
 
 namespace Hotel.DAL.Abstract
 {
-    public interface IOdaDAL : IGenericDAL<Oda>
+    public interface IBultenDAL : IGenericDAL<Bulten>
     {
     }
 }

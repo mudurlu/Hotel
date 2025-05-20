@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Hotel.EntityLayer.Concrete
 {
-    internal class Oda
+    public class Oda
     {
         public int OdaId { get; set; }
 
